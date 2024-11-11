@@ -1,0 +1,338 @@
+﻿Customer Type,Date,Region,State Code,State Name,Sub-Region,Sales
+Non-Profit,1/1/2014,West,AZ,Arizona,Mountain,59695.4
+Private,4/1/2014,West,AZ,Arizona,Mountain,51166.07
+Non-Profit,4/1/2014,West,CO,Colorado,Mountain,49397.72
+Government,4/1/2014,West,NV,Nevada,Mountain,34965.54
+Private,4/1/2014,West,NM,New Mexico,Mountain,51920.48
+Public,4/1/2014,West,UT,Utah,Mountain,86915.1
+Private,7/1/2014,West,AZ,Arizona,Mountain,38613.31
+Private,7/1/2014,West,CA,California,Pacific,79659.41
+Non-Profit,7/1/2014,West,CO,Colorado,Mountain,12397.57
+Non-Profit,7/1/2014,West,ID,Idaho,Mountain,51676.42
+Non-Profit,7/1/2014,West,MT,Montana,Mountain,46281.38
+Non-Profit,7/1/2014,West,NV,Nevada,Mountain,82069.47
+Private,7/1/2014,West,NM,New Mexico,Mountain,23402.5
+Public,7/1/2014,West,OR,Oregon,Pacific,59876.09
+Public,7/1/2014,West,UT,Utah,Mountain,53126.32
+Private,7/1/2014,West,WA,Washington,Pacific,9267.01
+Public,7/1/2014,West,WY,Wyoming,Mountain,33117.63
+Private,10/1/2014,West,AZ,Arizona,Mountain,69649.93
+Private,10/1/2014,South,AR,Arkansas,West South Central,29184.38
+Private,10/1/2014,West,CA,California,Pacific,7691.14
+Non-Profit,10/1/2014,West,CO,Colorado,Mountain,57274.25
+Private,10/1/2014,West,ID,Idaho,Mountain,42594.32
+Non-Profit,10/1/2014,South,LA,Louisiana,West South Central,58627.04
+Private,10/1/2014,West,MT,Montana,Mountain,96418.35
+Government,10/1/2014,West,NV,Nevada,Mountain,95566.82
+Non-Profit,10/1/2014,West,NM,New Mexico,Mountain,835.14
+Government,10/1/2014,South,OK,Oklahoma,West South Central,89667.26
+Government,10/1/2014,West,OR,Oregon,Pacific,70442.81
+Government,10/1/2014,South,TX,Texas,West South Central,17681.11
+Government,10/1/2014,West,UT,Utah,Mountain,40934.59
+Private,10/1/2014,West,WA,Washington,Pacific,18487.15
+Private,10/1/2014,West,WY,Wyoming,Mountain,80923.38
+Private,1/1/2015,South,AL,Alabama,East South Central,62377.34
+Government,1/1/2015,West,AZ,Arizona,Mountain,41721.38
+Public,1/1/2015,South,AR,Arkansas,West South Central,32184.44
+Public,1/1/2015,West,CA,California,Pacific,99068.31
+Non-Profit,1/1/2015,West,CO,Colorado,Mountain,67290.77
+Non-Profit,1/1/2015,West,ID,Idaho,Mountain,34907.73
+Private,1/1/2015,Midwest,KS,Kansas,West North Central,64340.98
+Public,1/1/2015,South,KY,Kentucky,East South Central,86985.39
+Private,1/1/2015,South,LA,Louisiana,West South Central,85381.63
+Public,1/1/2015,South,MS,Mississippi,East South Central,35936.52
+Private,1/1/2015,Midwest,MO,Missouri,West North Central,75028
+Non-Profit,1/1/2015,West,MT,Montana,Mountain,80241.18
+Non-Profit,1/1/2015,West,NV,Nevada,Mountain,27388.86
+Private,1/1/2015,West,NM,New Mexico,Mountain,40144.35
+Public,1/1/2015,South,OK,Oklahoma,West South Central,94051.39
+Public,1/1/2015,West,OR,Oregon,Pacific,98569.16
+Private,1/1/2015,South,TN,Tennessee,East South Central,88833.41
+Non-Profit,1/1/2015,South,TX,Texas,West South Central,88607.77
+Public,1/1/2015,West,UT,Utah,Mountain,30841.17
+Non-Profit,1/1/2015,West,WA,Washington,Pacific,69202.02
+Public,1/1/2015,West,WY,Wyoming,Mountain,83295.95
+Non-Profit,4/1/2015,South,AL,Alabama,East South Central,47118.21
+Private,4/1/2015,West,AZ,Arizona,Mountain,34284.7
+Non-Profit,4/1/2015,South,AR,Arkansas,West South Central,11564.9
+Public,4/1/2015,West,CA,California,Pacific,74815.01
+Public,4/1/2015,West,CO,Colorado,Mountain,75900.23
+Government,4/1/2015,South,FL,Florida,South Atlantic,30147.43
+Private,4/1/2015,South,GA,Georgia,South Atlantic,56487.68
+Government,4/1/2015,West,ID,Idaho,Mountain,24355.82
+Non-Profit,4/1/2015,Midwest,IA,Iowa,West North Central,49445.26
+Public,4/1/2015,Midwest,KS,Kansas,West North Central,19053.26
+Non-Profit,4/1/2015,South,KY,Kentucky,East South Central,40777.01
+Government,4/1/2015,South,LA,Louisiana,West South Central,20352.72
+Private,4/1/2015,South,MS,Mississippi,East South Central,11287.02
+Non-Profit,4/1/2015,Midwest,MO,Missouri,West North Central,4051.14
+Government,4/1/2015,West,MT,Montana,Mountain,43122.3
+Private,4/1/2015,Midwest,NE,Nebraska,West North Central,15720.63
+Public,4/1/2015,West,NV,Nevada,Mountain,40299.78
+Private,4/1/2015,West,NM,New Mexico,Mountain,8686.15
+Government,4/1/2015,South,NC,North Carolina,South Atlantic,10761.77
+Private,4/1/2015,Midwest,ND,North Dakota,West North Central,5940.3
+Private,4/1/2015,South,OK,Oklahoma,West South Central,55000.3
+Public,4/1/2015,West,OR,Oregon,Pacific,65036.34
+Government,4/1/2015,South,SC,South Carolina,South Atlantic,67765.26
+Non-Profit,4/1/2015,Midwest,SD,South Dakota,West North Central,90495.89
+Public,4/1/2015,South,TN,Tennessee,East South Central,58346.33
+Public,4/1/2015,South,TX,Texas,West South Central,77627.91
+Non-Profit,4/1/2015,West,UT,Utah,Mountain,78181.47
+Non-Profit,4/1/2015,West,WA,Washington,Pacific,49122.85
+Non-Profit,4/1/2015,West,WY,Wyoming,Mountain,62302.46
+Public,7/1/2015,South,AL,Alabama,East South Central,61558.68
+Government,7/1/2015,West,AZ,Arizona,Mountain,46944.4
+Government,7/1/2015,South,AR,Arkansas,West South Central,53978.59
+Public,7/1/2015,West,CA,California,Pacific,25917.21
+Non-Profit,7/1/2015,West,CO,Colorado,Mountain,43376.87
+Private,7/1/2015,South,FL,Florida,South Atlantic,79913.58
+Public,7/1/2015,South,GA,Georgia,South Atlantic,9566.15
+Public,7/1/2015,West,ID,Idaho,Mountain,90698.26
+Non-Profit,7/1/2015,Midwest,IL,Illinois,East North Central,44573.7
+Private,7/1/2015,Midwest,IN,Indiana,East North Central,81507.34
+Non-Profit,7/1/2015,Midwest,IA,Iowa,West North Central,56657.19
+Public,7/1/2015,Midwest,KS,Kansas,West North Central,6675.25
+Private,7/1/2015,South,KY,Kentucky,East South Central,75062.87
+Public,7/1/2015,South,LA,Louisiana,West South Central,80284
+Private,7/1/2015,Midwest,MI,Michigan,East North Central,51894.72
+Government,7/1/2015,Midwest,MN,Minnesota,West North Central,75116.21
+Government,7/1/2015,South,MS,Mississippi,East South Central,34064.62
+Private,7/1/2015,Midwest,MO,Missouri,West North Central,20880.56
+Public,7/1/2015,West,MT,Montana,Mountain,37368.59
+Government,7/1/2015,Midwest,NE,Nebraska,West North Central,50174.7
+Non-Profit,7/1/2015,West,NV,Nevada,Mountain,26406.35
+Private,7/1/2015,West,NM,New Mexico,Mountain,93698.37
+Government,7/1/2015,South,NC,North Carolina,South Atlantic,20055.34
+Private,7/1/2015,Midwest,ND,North Dakota,West North Central,22696.9
+Government,7/1/2015,South,OK,Oklahoma,West South Central,11278.31
+Private,7/1/2015,West,OR,Oregon,Pacific,92112.85
+Public,7/1/2015,South,SC,South Carolina,South Atlantic,5959.49
+Non-Profit,7/1/2015,Midwest,SD,South Dakota,West North Central,3069.37
+Public,7/1/2015,South,TN,Tennessee,East South Central,19551.52
+Public,7/1/2015,South,TX,Texas,West South Central,74293.22
+Public,7/1/2015,West,UT,Utah,Mountain,32086.01
+Public,7/1/2015,West,WA,Washington,Pacific,64968.87
+Government,7/1/2015,Midwest,WI,Wisconsin,East North Central,5031.05
+Non-Profit,7/1/2015,West,WY,Wyoming,Mountain,41871.71
+Government,10/1/2015,South,AL,Alabama,East South Central,45437.3
+Public,10/1/2015,West,AZ,Arizona,Mountain,71454.65
+Public,10/1/2015,South,AR,Arkansas,West South Central,50331.42
+Private,10/1/2015,West,CA,California,Pacific,89977.86
+Private,10/1/2015,West,CO,Colorado,Mountain,87567.11
+Private,10/1/2015,South,FL,Florida,South Atlantic,79824.1
+Private,10/1/2015,South,GA,Georgia,South Atlantic,19971.46
+Government,10/1/2015,West,ID,Idaho,Mountain,19904.91
+Public,10/1/2015,Midwest,IL,Illinois,East North Central,17620.72
+Private,10/1/2015,Midwest,IN,Indiana,East North Central,26877.65
+Non-Profit,10/1/2015,Midwest,IA,Iowa,West North Central,73374.83
+Non-Profit,10/1/2015,Midwest,KS,Kansas,West North Central,24397.93
+Private,10/1/2015,South,KY,Kentucky,East South Central,20291.55
+Private,10/1/2015,South,LA,Louisiana,West South Central,42277.08
+Private,10/1/2015,South,MD,Maryland,South Atlantic,88055.31
+Public,10/1/2015,Midwest,MI,Michigan,East North Central,61684.75
+Government,10/1/2015,Midwest,MN,Minnesota,West North Central,91519.9
+Government,10/1/2015,South,MS,Mississippi,East South Central,96068.11
+Non-Profit,10/1/2015,Midwest,MO,Missouri,West North Central,49023.92
+Non-Profit,10/1/2015,West,MT,Montana,Mountain,85087.9
+Public,10/1/2015,Midwest,NE,Nebraska,West North Central,77381.29
+Non-Profit,10/1/2015,West,NV,Nevada,Mountain,30979.5
+Government,10/1/2015,West,NM,New Mexico,Mountain,37945.57
+Public,10/1/2015,South,NC,North Carolina,South Atlantic,34479.04
+Government,10/1/2015,Midwest,ND,North Dakota,West North Central,9966.06
+Government,10/1/2015,Midwest,OH,Ohio,East North Central,14625.16
+Non-Profit,10/1/2015,South,OK,Oklahoma,West South Central,21457.5
+Private,10/1/2015,West,OR,Oregon,Pacific,43571.72
+Government,10/1/2015,South,SC,South Carolina,South Atlantic,51947.67
+Non-Profit,10/1/2015,Midwest,SD,South Dakota,West North Central,6350.52
+Public,10/1/2015,South,TN,Tennessee,East South Central,2513.97
+Government,10/1/2015,South,TX,Texas,West South Central,94780.14
+Private,10/1/2015,West,UT,Utah,Mountain,76254.71
+Public,10/1/2015,South,VA,Virginia,South Atlantic,71217.29
+Non-Profit,10/1/2015,West,WA,Washington,Pacific,33548.26
+Government,10/1/2015,South,WV,West Virginia,South Atlantic,32726.5
+Government,10/1/2015,Midwest,WI,Wisconsin,East North Central,31778.54
+Public,10/1/2015,West,WY,Wyoming,Mountain,24847.45
+Non-Profit,1/1/2016,South,AL,Alabama,East South Central,14618.99
+Public,1/1/2016,West,AZ,Arizona,Mountain,44347.79
+Public,1/1/2016,South,AR,Arkansas,West South Central,38102.35
+Government,1/1/2016,West,CA,California,Pacific,32339.39
+Private,1/1/2016,West,CO,Colorado,Mountain,4671.24
+Government,1/1/2016,South,DE,Delaware,South Atlantic,36811.79
+Non-Profit,1/1/2016,South,FL,Florida,South Atlantic,32869.08
+Public,1/1/2016,South,GA,Georgia,South Atlantic,93461.89
+Private,1/1/2016,West,ID,Idaho,Mountain,57188.75
+Private,1/1/2016,Midwest,IL,Illinois,East North Central,77681.41
+Non-Profit,1/1/2016,Midwest,IN,Indiana,East North Central,11504.94
+Non-Profit,1/1/2016,Midwest,IA,Iowa,West North Central,88944.63
+Private,1/1/2016,Midwest,KS,Kansas,West North Central,46976.67
+Non-Profit,1/1/2016,South,KY,Kentucky,East South Central,86254.5
+Public,1/1/2016,South,LA,Louisiana,West South Central,36876.53
+Government,1/1/2016,South,MD,Maryland,South Atlantic,38099.68
+Government,1/1/2016,Midwest,MI,Michigan,East North Central,91072.31
+Private,1/1/2016,Midwest,MN,Minnesota,West North Central,68414.43
+Government,1/1/2016,South,MS,Mississippi,East South Central,33735.37
+Public,1/1/2016,Midwest,MO,Missouri,West North Central,5150.41
+Private,1/1/2016,West,MT,Montana,Mountain,48202.03
+Public,1/1/2016,Midwest,NE,Nebraska,West North Central,71678.07
+Government,1/1/2016,West,NV,Nevada,Mountain,99513.28
+Public,1/1/2016,Northeast,NJ,New Jersey,Middle Atlantic,60340.83
+Government,1/1/2016,West,NM,New Mexico,Mountain,39421.14
+Public,1/1/2016,Northeast,NY,New York,Middle Atlantic,43411.74
+Private,1/1/2016,South,NC,North Carolina,South Atlantic,37849.9
+Public,1/1/2016,Midwest,ND,North Dakota,West North Central,67461.87
+Public,1/1/2016,Midwest,OH,Ohio,East North Central,49087.22
+Non-Profit,1/1/2016,South,OK,Oklahoma,West South Central,43935.42
+Government,1/1/2016,West,OR,Oregon,Pacific,83278.59
+Public,1/1/2016,Northeast,PA,Pennsylvania,Middle Atlantic,51443.3
+Government,1/1/2016,South,SC,South Carolina,South Atlantic,57151.93
+Public,1/1/2016,Midwest,SD,South Dakota,West North Central,48660.86
+Non-Profit,1/1/2016,South,TN,Tennessee,East South Central,31920.77
+Government,1/1/2016,South,TX,Texas,West South Central,75595.79
+Non-Profit,1/1/2016,West,UT,Utah,Mountain,38043.43
+Private,1/1/2016,South,VA,Virginia,South Atlantic,8449.55
+Government,1/1/2016,West,WA,Washington,Pacific,63469.97
+Non-Profit,1/1/2016,South,WV,West Virginia,South Atlantic,14117.23
+Public,1/1/2016,Midwest,WI,Wisconsin,East North Central,92930.71
+Public,1/1/2016,West,WY,Wyoming,Mountain,37908.46
+Non-Profit,4/1/2016,South,AL,Alabama,East South Central,63749.48
+Public,4/1/2016,West,AZ,Arizona,Mountain,48264.6
+Non-Profit,4/1/2016,South,AR,Arkansas,West South Central,8646.85
+Public,4/1/2016,West,CA,California,Pacific,96510.82
+Government,4/1/2016,West,CO,Colorado,Mountain,99532
+Non-Profit,4/1/2016,Northeast,CT,Connecticut,New England,20426.72
+Public,4/1/2016,South,DE,Delaware,South Atlantic,57297.98
+Private,4/1/2016,South,FL,Florida,South Atlantic,99453.25
+Private,4/1/2016,South,GA,Georgia,South Atlantic,63969.65
+Public,4/1/2016,West,ID,Idaho,Mountain,51814.1
+Private,4/1/2016,Midwest,IL,Illinois,East North Central,25518.84
+Private,4/1/2016,Midwest,IN,Indiana,East North Central,15018.69
+Public,4/1/2016,Midwest,IA,Iowa,West North Central,97768.65
+Government,4/1/2016,Midwest,KS,Kansas,West North Central,52382.58
+Private,4/1/2016,South,KY,Kentucky,East South Central,77079.11
+Non-Profit,4/1/2016,South,LA,Louisiana,West South Central,41367.47
+Non-Profit,4/1/2016,South,MD,Maryland,South Atlantic,46322.83
+Non-Profit,4/1/2016,Northeast,MA,Massachusetts,New England,65666.39
+Non-Profit,4/1/2016,Midwest,MI,Michigan,East North Central,72975.69
+Public,4/1/2016,Midwest,MN,Minnesota,West North Central,84361.34
+Public,4/1/2016,South,MS,Mississippi,East South Central,59089.91
+Public,4/1/2016,Midwest,MO,Missouri,West North Central,81415.19
+Public,4/1/2016,West,MT,Montana,Mountain,78426.02
+Private,4/1/2016,Midwest,NE,Nebraska,West North Central,75048.23
+Private,4/1/2016,West,NV,Nevada,Mountain,62602.2
+Public,4/1/2016,Northeast,NJ,New Jersey,Middle Atlantic,24249.47
+Non-Profit,4/1/2016,West,NM,New Mexico,Mountain,4511.11
+Public,4/1/2016,Northeast,NY,New York,Middle Atlantic,24484.82
+Government,4/1/2016,South,NC,North Carolina,South Atlantic,72119.23
+Government,4/1/2016,Midwest,ND,North Dakota,West North Central,79707
+Government,4/1/2016,Midwest,OH,Ohio,East North Central,28988.37
+Government,4/1/2016,South,OK,Oklahoma,West South Central,55698.16
+Private,4/1/2016,West,OR,Oregon,Pacific,9853.91
+Public,4/1/2016,Northeast,PA,Pennsylvania,Middle Atlantic,10134.11
+Non-Profit,4/1/2016,Northeast,RI,Rhode Island,New England,34861.64
+Public,4/1/2016,South,SC,South Carolina,South Atlantic,41123.45
+Government,4/1/2016,Midwest,SD,South Dakota,West North Central,16316.7
+Government,4/1/2016,South,TN,Tennessee,East South Central,37472.03
+Public,4/1/2016,South,TX,Texas,West South Central,83968.64
+Private,4/1/2016,West,UT,Utah,Mountain,571.01
+Government,4/1/2016,South,VA,Virginia,South Atlantic,66964.59
+Government,4/1/2016,West,WA,Washington,Pacific,69057.94
+Public,4/1/2016,South,WV,West Virginia,South Atlantic,95027.63
+Non-Profit,4/1/2016,Midwest,WI,Wisconsin,East North Central,45987.33
+Non-Profit,4/1/2016,West,WY,Wyoming,Mountain,39976.6
+Public,7/1/2016,South,AL,Alabama,East South Central,71511.22
+Private,7/1/2016,West,AZ,Arizona,Mountain,53350.4
+Public,7/1/2016,South,AR,Arkansas,West South Central,37796.06
+Public,7/1/2016,West,CA,California,Pacific,96245.52
+Private,7/1/2016,West,CO,Colorado,Mountain,13831.9
+Private,7/1/2016,Northeast,CT,Connecticut,New England,40325.7
+Public,7/1/2016,South,DE,Delaware,South Atlantic,99803.44
+Government,7/1/2016,South,FL,Florida,South Atlantic,60907.84
+Government,7/1/2016,South,GA,Georgia,South Atlantic,50330.56
+Government,7/1/2016,West,ID,Idaho,Mountain,71821.53
+Government,7/1/2016,Midwest,IL,Illinois,East North Central,27853.69
+Government,7/1/2016,Midwest,IN,Indiana,East North Central,65778.88
+Private,7/1/2016,Midwest,IA,Iowa,West North Central,32773.41
+Non-Profit,7/1/2016,Midwest,KS,Kansas,West North Central,31525.93
+Public,7/1/2016,South,KY,Kentucky,East South Central,63023.65
+Non-Profit,7/1/2016,South,LA,Louisiana,West South Central,92969.75
+Non-Profit,7/1/2016,Northeast,ME,Maine,New England,24107.08
+Public,7/1/2016,South,MD,Maryland,South Atlantic,13896.58
+Public,7/1/2016,Northeast,MA,Massachusetts,New England,5799.48
+Non-Profit,7/1/2016,Midwest,MI,Michigan,East North Central,64700.65
+Public,7/1/2016,Midwest,MN,Minnesota,West North Central,42432.29
+Private,7/1/2016,South,MS,Mississippi,East South Central,92466.17
+Public,7/1/2016,Midwest,MO,Missouri,West North Central,57702.74
+Public,7/1/2016,West,MT,Montana,Mountain,57400.78
+Public,7/1/2016,Midwest,NE,Nebraska,West North Central,40188.04
+Non-Profit,7/1/2016,West,NV,Nevada,Mountain,11897.16
+Private,7/1/2016,Northeast,NH,New Hampshire,New England,44290.77
+Non-Profit,7/1/2016,Northeast,NJ,New Jersey,Middle Atlantic,47198.78
+Private,7/1/2016,West,NM,New Mexico,Mountain,24173.43
+Government,7/1/2016,Northeast,NY,New York,Middle Atlantic,93761.64
+Non-Profit,7/1/2016,South,NC,North Carolina,South Atlantic,93166.04
+Government,7/1/2016,Midwest,ND,North Dakota,West North Central,94237.24
+Non-Profit,7/1/2016,Midwest,OH,Ohio,East North Central,71314.49
+Non-Profit,7/1/2016,South,OK,Oklahoma,West South Central,52081.15
+Non-Profit,7/1/2016,West,OR,Oregon,Pacific,96406.18
+Public,7/1/2016,Northeast,PA,Pennsylvania,Middle Atlantic,57679.11
+Private,7/1/2016,Northeast,RI,Rhode Island,New England,15238.31
+Private,7/1/2016,South,SC,South Carolina,South Atlantic,54484.47
+Government,7/1/2016,Midwest,SD,South Dakota,West North Central,40932.17
+Private,7/1/2016,South,TN,Tennessee,East South Central,44803.26
+Public,7/1/2016,South,TX,Texas,West South Central,97913.21
+Public,7/1/2016,West,UT,Utah,Mountain,31317.28
+Non-Profit,7/1/2016,Northeast,VT,Vermont,New England,18947.45
+Government,7/1/2016,South,VA,Virginia,South Atlantic,12913.83
+Private,7/1/2016,West,WA,Washington,Pacific,57004.37
+Government,7/1/2016,South,WV,West Virginia,South Atlantic,18301.24
+Non-Profit,7/1/2016,Midwest,WI,Wisconsin,East North Central,55396.67
+Public,7/1/2016,West,WY,Wyoming,Mountain,90428.39
+Government,10/1/2016,South,AL,Alabama,East South Central,81987.94
+Non-Profit,10/1/2016,West,AZ,Arizona,Mountain,92120.67
+Public,10/1/2016,South,AR,Arkansas,West South Central,59165.69
+Government,10/1/2016,West,CA,California,Pacific,75590.46
+Non-Profit,10/1/2016,West,CO,Colorado,Mountain,56136.41
+Government,10/1/2016,Northeast,CT,Connecticut,New England,89385.76
+Private,10/1/2016,South,DE,Delaware,South Atlantic,47597.88
+Public,10/1/2016,South,FL,Florida,South Atlantic,72070.92
+Government,10/1/2016,South,GA,Georgia,South Atlantic,24470.47
+Public,10/1/2016,West,ID,Idaho,Mountain,61642.43
+Private,10/1/2016,Midwest,IL,Illinois,East North Central,42835.33
+Public,10/1/2016,Midwest,IN,Indiana,East North Central,90270.17
+Non-Profit,10/1/2016,Midwest,IA,Iowa,West North Central,82423.69
+Non-Profit,10/1/2016,Midwest,KS,Kansas,West North Central,50172.65
+Public,10/1/2016,South,KY,Kentucky,East South Central,42474.81
+Government,10/1/2016,South,LA,Louisiana,West South Central,17986.19
+Private,10/1/2016,Northeast,ME,Maine,New England,28614.93
+Private,10/1/2016,South,MD,Maryland,South Atlantic,70628.16
+Non-Profit,10/1/2016,Northeast,MA,Massachusetts,New England,86348.29
+Private,10/1/2016,Midwest,MI,Michigan,East North Central,14502.91
+Private,10/1/2016,Midwest,MN,Minnesota,West North Central,91231.57
+Public,10/1/2016,South,MS,Mississippi,East South Central,41708.33
+Government,10/1/2016,Midwest,MO,Missouri,West North Central,64812.97
+Government,10/1/2016,West,MT,Montana,Mountain,30653.66
+Non-Profit,10/1/2016,Midwest,NE,Nebraska,West North Central,27026.25
+Private,10/1/2016,West,NV,Nevada,Mountain,97221.82
+Private,10/1/2016,Northeast,NH,New Hampshire,New England,12561.31
+Private,10/1/2016,Northeast,NJ,New Jersey,Middle Atlantic,37725.47
+Non-Profit,10/1/2016,West,NM,New Mexico,Mountain,27312.61
+Public,10/1/2016,Northeast,NY,New York,Middle Atlantic,54812.46
+Non-Profit,10/1/2016,South,NC,North Carolina,South Atlantic,57167.2
+Government,10/1/2016,Midwest,ND,North Dakota,West North Central,48372.51
+Non-Profit,10/1/2016,Midwest,OH,Ohio,East North Central,46768.01
+Non-Profit,10/1/2016,South,OK,Oklahoma,West South Central,67321.69
+Private,10/1/2016,West,OR,Oregon,Pacific,84185.02
+Government,10/1/2016,Northeast,PA,Pennsylvania,Middle Atlantic,53464.57
+Private,10/1/2016,Northeast,RI,Rhode Island,New England,29798.53
+Private,10/1/2016,South,SC,South Carolina,South Atlantic,16480.51
+Government,10/1/2016,Midwest,SD,South Dakota,West North Central,7777.49
+Government,10/1/2016,South,TN,Tennessee,East South Central,67424.65
+Non-Profit,10/1/2016,South,TX,Texas,West South Central,60710.31
+Non-Profit,10/1/2016,West,UT,Utah,Mountain,79874.92
+Public,10/1/2016,Northeast,VT,Vermont,New England,48816
+Government,10/1/2016,South,VA,Virginia,South Atlantic,95458.33
+Private,10/1/2016,West,WA,Washington,Pacific,43224.02
+Non-Profit,10/1/2016,South,WV,West Virginia,South Atlantic,45550.13
+Public,10/1/2016,Midwest,WI,Wisconsin,East North Central,41999.02
+Non-Profit,10/1/2016,West,WY,Wyoming,Mountain,67982.47
